@@ -3,7 +3,7 @@
 
 想快速的运行本项目：
 
-1.运行ollama.sh脚本，并根据提示进行
+1.运行ollama.sh脚本，并根据提示进行（如图是一个完整运行的例子）
 
 <img width="400" height="365" alt="image" src="https://github.com/user-attachments/assets/a31ded9a-519d-41a7-95cd-2856fa956c37" />
 
