@@ -4,6 +4,7 @@
 想快速的运行本项目：
 
 1.运行ollama.sh脚本，并根据提示进行
+
 <img width="400" height="365" alt="image" src="https://github.com/user-attachments/assets/a31ded9a-519d-41a7-95cd-2856fa956c37" />
 
 2.rag需要读取多个文件来构建知识图谱，因此请确保代码中的路径是真实存在的你的机器上的文件路径，这个需要手动改写按照你的需求
