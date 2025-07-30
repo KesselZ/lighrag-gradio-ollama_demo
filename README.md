@@ -11,4 +11,6 @@
 
 3.python main.py用于运行命令行级别的对话，python ui.py用于运行带有gradio界面的对话
 
+<img width="999" height="710" alt="image" src="https://github.com/user-attachments/assets/fdc5dc37-d207-48b3-b136-8480a4b07894" />
+
 （两种方法功能类似，都是多轮对话+rag，可以通过history_turn来修改记忆长度。稳定的调试建议基于main.py,因为实测gradio还有一定的兼容性问题例如有时候能识别文档有时候不能）
